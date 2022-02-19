@@ -1,0 +1,16 @@
+body {
+    background-image: url("img/background.0.2.png");
+}
+
+
+
+
+
+.circular--square { 
+    border-radius: 50%; 
+    position: fixed;
+    bottom: 67%;
+    left: 45%;
+
+
+}

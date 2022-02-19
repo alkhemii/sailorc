@@ -11,7 +11,7 @@ body {
 
 .circular--square { 
     border-radius: 50%; 
-    position: fixed;
+    position: relative;
     bottom: 67%;
     left: 45%;
 }

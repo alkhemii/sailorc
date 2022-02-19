@@ -1,5 +1,8 @@
 body {
     background-image: url("img/background.0.2.png");
+    margin: 0;
+    height: 100%;
+    overflow: hidden
 }
 
 
@@ -11,6 +14,4 @@ body {
     position: fixed;
     bottom: 67%;
     left: 45%;
-
-
 }
